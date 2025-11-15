@@ -7,7 +7,8 @@
 4. Enable Eleventy Heading Anchors and linking to anchors (Get TOC working on long posts) like [/ili-report](/ili-report) and [ili-info](/ili_info/) - DONE `show_toc: true`
 5. Enable Eleventy Footnotes - DONE
 5. fix nesting of heading tags on homepage - DONE
-11. add schemea.njk to be filled in
+11. add schemea.njk to be filled in - 
+What is this for and where is it placed? Because the schema takes data from the frontmatter yaml / json and markdown.
 
 ## Optional
 12. is search possible? like a /search/ page  - DONE
