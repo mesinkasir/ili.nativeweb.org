@@ -1,11 +1,15 @@
 ---
 title: "Pu'uhonua Peace Pact"
-description: "The Pu'uhonua Peace Pact"
+description: "Submitted to The Hague Appeal for Peace May 11-15, 1999 The Hague, Netherlands"
+date: 1999-05-15
 image: 
 show_post_list: false
 show_info: false
 show_contact_form: false
 permalink: /peacepact/
+author: steven-newcomb
+tags:
+ - international
 ---
 # The Pu'uhonua Peace Pact
 
@@ -14,7 +18,7 @@ The Hague, Netherlands
 
 ### Prepared by Nalani Minton\* and Steven Newcomb\*\*  
 on behalf of  
-[The Indigenous Law Institute](index.html), The Kanaka Maoli Tribunal Komike, and [The Fourth World Center for the Study of Indigenous Law and Politics](http://carbon.cudenver.edu/public/fwc/fwcabout.html)
+[The Indigenous Law Institute](/), The Kanaka Maoli Tribunal Komike, and [The Fourth World Center for the Study of Indigenous Law and Politics](https://web.archive.org/web/20090102205420/http://carbon.cudenver.edu/public/fwc/fwcabout.html)
 
 - - -
 
@@ -133,4 +137,3 @@ That the world community support the convening of Peoples' International Tribuna
 
 - - -
 
-[![Hosted by NativeWeb](../www.nativeweb.org/hosted/hostedbynw.gif)](../www.nativeweb.org/index.html)

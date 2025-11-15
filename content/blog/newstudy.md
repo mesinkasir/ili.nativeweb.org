@@ -1,15 +1,19 @@
 ---
 title: The Role of Christianity in Historic Oppression
 description: "New Studies by Native American Scholar Document the Role of Christianity in Historic Oppression"
+date: 1994-10-31
 image: 
 show_post_list: false
 show_info: false
 show_contact_form: false
 permalink: /newstudy/
+author: fred-whitehead
+tags:
+  - catholic
+  - christianity
 ---
 
-## New Studies by Native American Scholar Document  
-the Role of Christianity in Historic Oppression
+## New Studies by Native American Scholar Document   the Role of Christianity in Historic Oppression
 
 ### by Fred Whitehead
 
@@ -53,10 +57,8 @@ Newcomb's writing style in this remarkable essay is far and away superior to mos
 > Box 5224  
 > Kansas City, KS 66119
 
-- - -
 
-![](/img/oil9-la.jpg)[**Return to Indigenous Law Institute home page**](index.html)
 
 - - -
 
-Original web page design by [Jeanne Ley](mailto:angel4u@teleport.com).
+<small>Original web page design by Jeanne Ley.</small>

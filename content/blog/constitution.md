@@ -1,13 +1,17 @@
 ---
 title: Toward an Oglala Lakota Constitution
-description: "Toward an Oglala Lakota Contitution Statement of Basic Principles"
+description: "Toward an Oglala Lakota Constitution Statement of Basic Principles"
+date: 2004-06-01
 image: 
 show_post_list: false
 show_info: true
 show_contact_form: true
 permalink: /constitution/
+author: steven-newcomb
+tags: 
+  - info
 ---
-## Toward an Oglala Lakota Contitution  
+## Toward an Oglala Lakota Constitution  
 Statement of Basic Principles
 
 by  
@@ -21,10 +25,9 @@ June 2004
 
 | Please Forward Comments To: |
 | --- | --- |
-| B. Kills Straight | [Steven Newcomb](mailto:SNewcomb@sycuan.org) |
-| P.O. Box 127 | P.O. Box 188 |
-| Kyle, South Dakota 57752 | Alpine, CA 91901 |
-|     | (619) 445-1167 |
+| B. Kills Straight | [Steven Newcomb](https://stevennewcomb.com/about/) |
+|   | P.O. Box 188 |
+|   | Alpine, CA 91901 |
 
 - - -
 

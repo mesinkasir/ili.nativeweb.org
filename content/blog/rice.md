@@ -1,19 +1,23 @@
 ---
-title: "Comment:  Rice  v.  Cayetano"
+title: "Comment: Rice v. Cayetano"
 description: "Justice Department Evidence Contradicts Supreme Court Decision"
+date: 2000-03-13
 image: 
 show_post_list: false
 show_info: false
 show_contact_form: false
 permalink: /rice/
+author: steven-newcomb
+tags:
+  - law
 ---
 # Comment: _Rice v. Cayetano_ - Justice Department Evidence Contradicts Supreme Court Decision
 
-### In Response to [The Honolulu Advertiser](http://www.honoluluadvertiser.com/index.html), Editorial Page  
+### In Response to [The Honolulu Advertiser](http://www.honoluluadvertiser.com/), Editorial Page  
 John Goemans' February 27, 2000, Essay on _Rice v. Cayetano_
 
-### By Steven T. Newcomb, Director of the [Indigenous Law Insitute](index.html)  
-and research fellow at the [Fourth World Center for the Study of Indigenous Law and Politics](http://carbon.cudenver.edu/public/fwc/fwcabout.html) at the University of Colorado at Denver
+### By Steven T. Newcomb, Director of the [Indigenous Law Insitute](/)  
+and research fellow at the [Fourth World Center for the Study of Indigenous Law and Politics](https://web.archive.org/web/20090102205420/http://carbon.cudenver.edu/public/fwc/fwcabout.html) at the University of Colorado at Denver
 
 #### March 13, 2000
 

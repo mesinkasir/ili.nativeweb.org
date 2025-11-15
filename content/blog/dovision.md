@@ -1,11 +1,15 @@
 ---
 title: Declaration of Vision
 description: "DECLARATION OF VISION Toward The Next 500 Years"
+date: 1994-12-31
 image: 
 show_post_list: false
 show_info: true
 show_contact_form: true
 permalink: /dovision/
+tags:
+  - catholic
+  - christianity
 ---
 ## DECLARATION OF VISION:  
 Toward The Next 500 Years
@@ -47,10 +51,8 @@ One hundred years ago daring the 1893 Parliament of World Religions, the profoun
 > 25 Rainbow Mall  
 > Niagra Falls, NY 14303
 
-- - -
 
-![](/img/oil9-la.jpg)[**Return to Indigenous Law Institute home page**](index.html)
 
 - - -
 
-Original web page design by [Jeanne Ley](mailto:angel4u@teleport.com).
+<small>Original web page design by Jeanne Ley.</small>

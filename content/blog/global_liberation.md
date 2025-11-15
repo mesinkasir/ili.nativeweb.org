@@ -1,16 +1,21 @@
 ---
 title: Toward the Global Liberation of All Nations and Peoples
 description: "Toward the Global Liberation of All Nations and Peoples by Steve Newcomb (Shawnee/Lenape) Indigenous Law Institute"
+date: 2004-12-20
 image: 
 show_post_list: false
 show_info: true
 show_contact_form: false
 permalink: /global_liberation/
+tags:
+  - liberation
+  - info
+author: steven-newcomb
 ---
-# Toward the Global Liberation of All Nations and Peoples
+## Toward the Global Liberation of All Nations and Peoples
 
-#### by Steve Newcomb (Shawnee/Lenape)  
-[Indigenous Law Institute](index.html)
+### by Steve Newcomb (Shawnee/Lenape)  
+[Indigenous Law Institute](/)
 
 Article 1 of the International Covenant on Civil and Political Rights (ICCPR) reads: "All peoples have the right of self-determination. By virtue of that right they freely determine their political status and freely pursue their economic, social and cultural development." This exact language is also found in article 1 of the International Covenant on Economic, Social and Cultural Rights (ICESCR).
 
@@ -96,4 +101,3 @@ Unfortunately, many states that built their colonial systems on the legacy of th
 
 - - -
 
-[![Hosted by NativeWeb](../www.nativeweb.org/hosted/hostedbynw.gif)](../www.nativeweb.org/index.html)

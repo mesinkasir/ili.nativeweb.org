@@ -1,13 +1,18 @@
 ---
 title: "Revoke the Inter Cetera Bull"
-description: "Revoke the Inter Cetera Bull by Valerie Taliman"
+description: "Indian people are denied their rights today simply because they were not Christians at the time of European arrival."
+date: 1994-10-31
 image: 
 show_post_list: false
 show_info: false
 show_contact_form: false
 permalink: /ricb/
+author: valerie-taliman
+tags:
+  - catholic
+  - christianity
 ---
-# Revoke the Inter Cetera Bull
+## Revoke the Inter Cetera Bull
 
 ### by Valerie Taliman
 
@@ -53,7 +58,7 @@ Kills Straight drew the link between the industrialized world's view of the eart
 
 - - -
 
-> **Author's Note:** During the parliament, the 60 Native delegates developed a "[Declaration of Vision](dovision.html)" that included a call to the Roman Catholic Hierarchy to revoke the 1493 Inter Cetera Papal Bull. The Declaration of Vision was presented to the World Parliament general assembly by Charlotte Black Elk and was endorsed by resolution in a near unanimous vote. However, Dr. David Ramage, Jr., Chairman of the Council Parliament, later overruled the vote at a post-parliament meeting, saying that all resolutions passed during the general assembly had no standing since the assembly was intended "only to exchange insights, not to take group actions." It is unclear what action will be taken to address the declaration.
+> **Author's Note:** During the parliament, the 60 Native delegates developed a "[Declaration of Vision](/dovision/)" that included a call to the Roman Catholic Hierarchy to revoke the 1493 Inter Cetera Papal Bull. The Declaration of Vision was presented to the World Parliament general assembly by Charlotte Black Elk and was endorsed by resolution in a near unanimous vote. However, Dr. David Ramage, Jr., Chairman of the Council Parliament, later overruled the vote at a post-parliament meeting, saying that all resolutions passed during the general assembly had no standing since the assembly was intended "only to exchange insights, not to take group actions." It is unclear what action will be taken to address the declaration.
 
 - - -
 
@@ -63,10 +68,8 @@ Kills Straight drew the link between the industrialized world's view of the eart
 > 25 Rainbow Mall  
 > Niagra Falls, NY 14303
 
-- - -
 
-![](/img/oil9-la.jpg)[**Return to Indigenous Law Institute home page**](index.html)
 
 - - -
 
-Original web page design by [Jeanne Ley](mailto:angel4u@teleport.com).
+<small>Original web page design by Jeanne Ley.</small>

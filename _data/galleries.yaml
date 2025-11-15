@@ -1,87 +1,61 @@
-# Gallery WIdget
-title: Our Gallery
-description: Our galleries portfolio
+# Gallery Widget
+title: Our Projects
+description: Our Projects portfolio
 button: 
   text: Explore all
-  url: /gallery/
+  url: /projects/
 
 # Modal Gallery
 modal: 
   about: About This Project
-  sumary: Sumary
+  sumary: Summary
   button: Visit Project  
 
 
 # Gallery List
 list: 
-  - title: 11ty Editorial
-    description: A Complete editorial themes for 11ty
-    url: https://adamdjbrett.com
-    image: https://images.unsplash.com/photo-1542744094-3a31f272c490?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZGVzaWduJTIwd2VifGVufDB8fDB8fHww
+  - title: Domination Chronicles Podcast
+    description: Domination Chronicles is where we share our thoughts about the details and the implications of a claim of a right of domination.
+    url: https://DominationChronicles.com
+    image: /img/domination-chronicles.webp
     text: | 
-      Editorial 11ty is a new and modern editorial themes for your project, develope by 
-      [Adam Dj Brett](https://adamdjbrett.com)
+      Steven Newcomb and Peter d'Errico have between them 90 years (!) of experience studying and working with so-called "federal Indian law" — what we show to be "federal anti-Indian law". Domination Chronicles is where we share our thoughts about the details and the implications of a claim of a right of domination... for all peoples and for Earth itself.
   
   
-  - title: 11ty Backflip
-    description: A Complete backflip themes for 11ty
-    url: https://adamdjbrett.com
-    image: https://images.unsplash.com/photo-1476357471311-43c0db9fb2b4?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8ZGVzaWduJTIwd2VifGVufDB8fDB8fHww
+  - title: Domination Chronicles Youtube
+    description: Subscribe to our Domination Chronicles Youtube Channel
+    url: https://www.youtube.com/@DominationChronicles
+    image: /img/youtube-dominationchronicles.jpg
     text: | 
-      Editorial 11ty is a new and modern editorial themes for your project, develope by 
-      [Adam Dj Brett](https://adamdjbrett.com)
+      Subscribe to our Domination Chronicles Youtube Channel for more content.
   
-  
-  - title: 11ty Nookie
-    description: A Complete nookie themes for 11ty
-    url: https://adamdjbrett.com
-    image: https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d2ViJTIwZGVzaWdufGVufDB8fDB8fHww
+  - title: Original Free Nations
+    description: Cutting-edge research for indigenous peoples' liberation and decolonization.
+    url: https://originalfreenations.com/
+    image: /img/original-free-nations-site-icon-1.png
     text: | 
-      Editorial 11ty is a new and modern editorial themes for your project, develope by 
-      [Adam Dj Brett](https://adamdjbrett.com)
+      Original Nations Advocates is dedicated to supporting Indigenous nations and peoples to protect their sacred ancestral homelands, to restore and revitalize their linguistic, cultural, and spiritual traditions, and to heal from the trauma of colonization and the patterns of domination.
   
   
-  - title: 11ty Mousepad
-    description: A Complete mousepad themes for 11ty
-    url: https://adamdjbrett.com
-    image: https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8d2ViJTIwZGVzaWdufGVufDB8fDB8fHww
+  - title: Steven T. Newcomb Substack
+    description: Read articles and essays from Steven T. Newcomb
+    url: https://stevennewcomb.substack.com
+    image: /img/steven-newcomb.webp
     text: | 
-      Editorial 11ty is a new and modern editorial themes for your project, develope by 
-      [Adam Dj Brett](https://adamdjbrett.com)
+      Observations about life on mother earth and the domination system, from an Original Free Nations perspective, by 
+      [Steven T. Newcomb](https://stevennewcomb.com)
   
-  
-  - title: 11ty Delos
-    description: A Complete delos themes for 11ty
-    url: https://adamdjbrett.com
-    image: https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHdlYiUyMGRlc2lnbnxlbnwwfHwwfHx8MA%3D%3D
+  - title: Peter d'Errico Substack
+    description: Read articles and essays from Peter d'Errico
+    url: https://peterderrico.substack.com
+    image: /img/peter-derrico.webp
     text: | 
-      Editorial 11ty is a new and modern editorial themes for your project, develope by 
-      [Adam Dj Brett](https://adamdjbrett.com)
+      I’m Peter d’Errico. I’ve been involved with Indigenous peoples’ legal issues for more than fifty years, beginning in 1968, fresh out of Yale Law School, as a legal services attorney with Dinébe'iiná Náhiiłna be Agha'diit'ahii, the Navajo legal services project. I taught Legal Studies for more than thirty years at the University of Massachusetts Amherst. During the whole time, I represented and consulted with Native clients in state and federal litigation.
   
-  
-  - title: 11ty Helios
-    description: A Complete helios themes for 11ty
-    url: https://adamdjbrett.com
-    image: https://images.unsplash.com/photo-1542744095-0d53267d353e?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fHdlYiUyMGRlc2lnbnxlbnwwfHwwfHx8MA%3D%3D
+  - title: Desecrating the Sacred
+    description: An Original Free Nations Documentary Film
+    url: https://desecratingthesacred.com
+    image: /img/desecrating-the-sacred.svg
     text: | 
-      Editorial 11ty is a new and modern editorial themes for your project, develope by 
-      [Adam Dj Brett](https://adamdjbrett.com)
-  
-  
-  - title: 11ty Carl Zeiss
-    description: A Complete Carl Zeiss themes for 11ty
-    url: https://adamdjbrett.com
-    image: https://images.unsplash.com/photo-1635405050330-b0824eb1bf26?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHdlYiUyMGRlc2lnbnxlbnwwfHwwfHx8MA%3D%3D
-    text: | 
-      Editorial 11ty is a new and modern editorial themes for your project, develope by 
-      [Adam Dj Brett](https://adamdjbrett.com)
-  
-  
-  - title: 11ty Nikkor
-    description: A Complete nikkor themes for 11ty
-    url: https://adamdjbrett.com
-    image: https://images.unsplash.com/photo-1487338875411-8880f74114a2?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHdlYiUyMGRlc2lnbnxlbnwwfHwwfHx8MA%3D%3D
-    text: | 
-      Editorial 11ty is a new and modern editorial themes for your project, develope by 
-      [Adam Dj Brett](https://adamdjbrett.com)
-  
+      Desecrating the Sacred is a documentary film that explores the destruction of sacred sites and the impact on Indigenous communities.
+      The film features interviews with Indigenous leaders, activists, and scholars who discuss the importance of protecting sacred sites and the need for greater respect for Indigenous cultures and traditions.

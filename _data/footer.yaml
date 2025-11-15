@@ -3,17 +3,17 @@
 # Footer title
 title: "Indigenous Law Institute"
 
-# Footer IMage
-image: "https://getbootstrap.com/docs/5.3/assets/img/favicons/apple-touch-icon.png"
+# Footer Image
+image: "/img/indigenous-law-institute-inverted.svg"
 
 # Footer image width and height
-width: "80"
-height: "80"
+width: "100"
+height: "100"
 # image circle - switch false if you want default
 circle: true
 # Footer text
 text: |
-  welcome this is a footer area with markdown - contact me [Adam Dj Brett](https://adamdjbrett.com)
+  A Movement Toward Restoration and Healing
 
 # Footer Menu 2
 menu2: 
@@ -25,37 +25,46 @@ menu2:
     url: /about/
   - nav: Blog
     url: /blog/
-  - nav: Gallery
-    url: /gallery/
+  - nav: Give
+    url: https://originalfreenations.com/support-our-work/
+  - nav: Projects
+    url: /projects/
   - nav: Contact
     url: /contact/
 
 # Footer Menu 3
 menu3: 
- title: Refference
+ title: Projects
  list: 
-  - nav: Ammau
-    url: /amau/
-  - nav: New Study
-    url: /newstudy/
-  - nav: Dovision
-    url: /dovision/
-  - nav: Liberation
-    url: /global_liberation/
-  - nav: Perspect
-    url: /perspect/
+  - nav: Domination Chronicles Podcast
+    url: https://DominationChronicles.com
+  - nav: Youtube Channel
+    url: https://www.youtube.com/@DominationChronicles
+  - nav: Steven Newcomb's Blog
+    url: https://stevennewcomb.substack.com
+  - nav: Peter d'Errico's Blog
+    url: https://peterderrico.substack.com
+  - nav: Desecrating the Sacred
+    url: https://desecratingthesacred.com
+  - nav: Native Web
+    url: https://nativeweb.org
+  - nav: Original Free Nations
+    url: https://originalfreenations.com/  
 
 # Footer Social area
 social: 
- - icon: fab fa-x-twitter
-   title: Follow Our X
-   url: https://x.com
+ - icon: fas fa-podcast
+   title: Listen Our Podcast
+   url: https://DominationChronicles.com
  - icon: fab fa-youtube
    title: Follow Our Youtube
-   url: https://youtube.com
- - icon: fab fa-instagram
-   title: Follow Our Instagram
-   url: https://youtube.com
+   url: https://www.youtube.com/@DominationChronicles
+ - icon: fab fa-x-twitter
+   title: Follow Our X
+   url: https://x.com/originally_free
+ - icon: fab fa-facebook
+   title: Follow Our Facebook
+   url: https://www.facebook.com/stevennewcomb1  
 
 
 

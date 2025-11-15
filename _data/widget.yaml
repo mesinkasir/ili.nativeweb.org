@@ -24,14 +24,14 @@ info:
 
 # Contact Form Widget
 contact: 
-  formspree_id: "xxx"
+  formspree_id: "myzlelkg"
   title: Contact Us
   form: 
     title: Contact Form
     button: Sent Message
-  map_title: FInd Us
+  map_title: Find Us
   map_image: 
-    show: true
+    show: false
     image: "https://placehold.co/600x400"
     url: "https://maps.app.goo.gl/7bNNqeQfa6X4RjtbA"
     alt: "My locations"

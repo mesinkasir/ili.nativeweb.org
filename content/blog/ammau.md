@@ -1,18 +1,19 @@
 ---
 title: A MAU A MAU
 description: "to continue forever"
+date: 2000-01-01
 image: 
 show_post_list: false
 show_info: true
 show_contact_form: true
 permalink: /amau/
 ---
-# A MAU A MAU:  
+## A MAU A MAU:  
 to continue forever
 
 ![John Ka'imikaua](/img/amau_tn.jpeg)
 
-## Cultural and Spiritual Traditions of Moloka'i  
+### Cultural and Spiritual Traditions of Moloka'i  
 Life Giving Knowledge of Peace  
   
 with Hãlau Hula O Kukunaokalã

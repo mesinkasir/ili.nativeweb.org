@@ -9,20 +9,20 @@ description: A Movement Toward Restoration and Healing
 hero: 
  title: Indigenous Law Institute
  description: "A Movement Toward Restoration and Healing"
- image: "https://images.unsplash.com/photo-1729974354505-edb5855eb876?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwxM3x8fGVufDB8fHx8fA%3D%3D"
+ image: /img/pope-newcomb.jpg
  button: # You can add new button here..
-   - text: Get Started
-     url: /
+   - text: Listen to our podcast
+     url: https://dominiationchronicles.com
 
 # About Section
 intro: 
  title: About us.
- image: "https://images.unsplash.com/photo-1734526040622-a3e96b679f80?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwzfHx8ZW58MHx8fHx8"
+ image: /img/BKSSN-WPR-1993.jpg
  text: |
-   lorep ipsum dolor siamet amet lorep ipsum dolor siamet amet lorep ipsum dolor siamet amet lorep ipsum dolor siamet amet lorep ipsum dolor siamet amet lorep ipsum dolor siamet amet .
+     Birgil Kills Straight and Steve Newcomb of the Indigenous Law Institute, spoke in the “Voices of the Dispossessed” panel on the 3 May 1493 Inter Caetera Papal bull at the World Parliament of Religions held in Chicago, 1993. Photo Credit Valerie Taliman.
  list: 
-   - text: Responsive design & Mobile First
-   - text: 11ty aka Eleventy JAMSTACK SSG Tech
-   - text: Bootstrap UI / UX for design
-   - text: Auto SEO injection script includes
+   - text: An Original Free Nations Perspective
+   - text: The Domination Translator
+   - text: Civilization as Domination
+   - text: Challenging the Claim of a Right of Domination
 ---

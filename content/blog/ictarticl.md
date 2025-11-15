@@ -1,17 +1,22 @@
 ---
 title: Scholar Calls on Pope
 description: "Scholar Calls on Pope to Pull the Bull from Under U.S. Indian Law"
+date: 1992-10-29
 image: 
 show_post_list: false
 show_info: false
 show_contact_form: false
 permalink: /ictarticl/
+author: jerry-reynolds
+tags:
+  - catholic
+  - christianity
 ---
-# Scholar Calls on Pope to Pull the Bull  
+## Scholar Calls on Pope to Pull the Bull  
 from Under U.S. Indian Law
 
 ### By Jerry Reynolds  
-Today Staff
+*Today Staff*
 
 **Rapid City** - The ancient practices of Indian religion turned Steve Newcomb's sense of reality completely around. But if he succeeds in doing the same for the Vatican and U.S. Indian law, it will be through the modern scientific method.
 
@@ -127,10 +132,8 @@ But it could prove a valuable case Mr. Newcomb is building, he acknowledged. "Ul
 
 > **DOCUMENT SOURCE:** Reynolds, Jerry. "Scholar calls on Pope to pull the bull from under U.S. Indian law." Indian Country Today. 29 Oct. 1992, sec. B1+.
 
-- - -
 
-![](/img/oil9-la.jpg)[**Return to Indigenous Law Institute home page**](index.html)
 
 - - -
 
-Original web page design by [Jeanne Ley](mailto:angel4u@teleport.com).
+<small>Original web page design by Jeanne Ley.</small>

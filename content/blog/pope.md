@@ -1,19 +1,23 @@
 ---
 title: "Comment: Pope Asks Forgiveness"
-description: "Comment: Pope Asks Forgiveness - Will The Vatican Repeal The Inter Cetera?"
+description: "Will The Vatican Repeal The Inter Cetera?"
+date: 2000-03-15
 image: 
 show_post_list: false
 show_info: false
 show_contact_form: false
 permalink: /pope/
+author: steven-newcomb
+tags:
+  - catholic
+  - christianity
 ---
-# Comment: Pope Asks Forgiveness -  
-Will The Vatican Repeal The Inter Cetera?
+## Comment: Pope Asks Forgiveness -   Will The Vatican Repeal The Inter Cetera?
 
 - - -
 
-By Steven T. Newcomb, Director of the [Indigenous Law Insitute](index.html)  
-and research fellow at the [Fourth World Center for the Study of Indigenous Law and Politics](http://carbon.cudenver.edu/public/fwc/fwcabout.html) at the University of Colorado at Denver
+### By Steven T. Newcomb, Director of the [Indigenous Law Insitute](/)  
+and research fellow at the [Fourth World Center for the Study of Indigenous Law and Politics](https://web.archive.org/web/20090102205420/http://carbon.cudenver.edu/public/fwc/fwcabout.html) at the University of Colorado at Denver
 
 #### March 15, 2000
 
@@ -31,7 +35,7 @@ In the year of the Columbus quincentennial, we began a campaign to point out to 
 
 It is not well known that the Inter Cetera bull directly influenced the development of U.S. Indian law. Justice Joseph Story revealed that the Supreme Court included in the 1823 ruling _Johnson vs. McIntosh_ the doctrine of subjugation found in the Inter Cetera bull. To this day, the _Johnson_ ruling, with its distinction between "Christian people" and "natives, who were heathens," remains an active precedent in the United States, in violation, we contend, of our human rights as American Indian nations and peoples.
 
-With this history in mind, [we wrote a letter in 1993 to Pope John Paul II, calling upon him to formally revoke the Inter Cetera bull of 1493](ricb.html), and to thereby explicitly overturn the Church's doctrine of conquest and subjugation. Thus far, we have received only a stony silence from the Vatican.
+With this history in mind, [we wrote a letter in 1993 to Pope John Paul II, calling upon him to formally revoke the Inter Cetera bull of 1493](/ricb/), and to thereby explicitly overturn the Church's doctrine of conquest and subjugation. Thus far, we have received only a stony silence from the Vatican.
 
 Not only is the revocation of the Inter Cetera bull the right thing to do, it also would be an heroic moral act that, we believe, would assist us to challenge and overturn the doctrine of domination that underlies U.S. Indian law. Although the spirit of Inter Cetera was repudiated by the international community through the decolonization of Asia and Africa, indigenous peoples throughout the world have yet to be liberated from the historical legacy and yoke of the bull's dominating ideology.
 

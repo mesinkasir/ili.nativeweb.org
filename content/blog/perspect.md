@@ -1,11 +1,16 @@
 ---
 title: "Healing, Restoration, and Rematriation"
 description: "PERSPECTIVES Healing, Restoration, and Rematriation by Steven Newcomb, Shawnee/Lenape"
+date: 1995-07-30
 image: 
 show_post_list: false
 show_info: false
 show_contact_form: false
 permalink: /perspect/
+author: steven-newcomb
+tags:
+ - info
+ - rematriation
 ---
 # PERSPECTIVES
 
@@ -32,10 +37,8 @@ By "rematriation" I mean "to restore a living culture to its rightful place on M
 > 463 East 57th Street  
 > New York, NY 10022
 
-- - -
 
-![](/img/oil9-la.jpg)[**Return to Indigenous Law Institute home page**](index.html)
 
 - - -
 
-Original web page design by [Jeanne Ley](mailto:angel4u@teleport.com).
+<small>Original web page design by Jeanne Ley.</small>

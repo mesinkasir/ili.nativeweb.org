@@ -1,11 +1,16 @@
 ---
 title: "Five Hundred Years of Injustice"
 description: "The Legacy of Fifteenth Century Religious Prejudice by Steve Newcomb"
+date: 1992-10-31
 image: 
 show_post_list: false
 show_info: false
 show_contact_form: false
 permalink: /sdrm_art/
+author: steven-newcomb
+tags:
+  - catholic
+  - christianity
 ---
 
 ## Five Hundred Years of Injustice:
@@ -106,10 +111,8 @@ Ziegler, Benjamin Munn, 1939, The International Law of John Marshall, Chapel Hil
 > P.O. Box 430  
 > Willits, CA 95490
 
-- - -
 
-![](/img/oil9-la.jpg)[**Return to Indigenous Law Institute home page**](index.html)
 
 - - -
 
-Original web page design by [Jeanne Ley](mailto:angel4u@teleport.com).
+<small>Original web page design by Jeanne Ley.</small>

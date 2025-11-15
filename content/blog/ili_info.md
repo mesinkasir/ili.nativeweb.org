@@ -6,6 +6,8 @@ show_post_list: false
 show_info: false
 show_contact_form: false
 permalink: /ili_info/
+tags:
+ - info
 ---
 # Indigenous Law Institute
 
@@ -64,4 +66,4 @@ By holding "Historical Unresolved Grief Seminars"--which include traditional hea
 - - -
 
 
-Original web page design by [Jeanne Ley](mailto:angel4u@teleport.com).
+<small>Original web page design by Jeanne Ley.</small>
